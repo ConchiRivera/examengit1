@@ -2,5 +2,7 @@ Hola mundo
 
 Estamos haciendo nuestro primer examen de Git&GitHub, a ver que tal nos sale
 
+En el ejercicio 12 del examen, nos piden realizar algunos cambios en el archivo. Hecho
+
 Adios mundo
 
